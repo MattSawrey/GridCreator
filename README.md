@@ -1,5 +1,5 @@
 # GridCreator
-A simple 2D Grid Creator for Unity
+A 2D Grid Creator for Unity
 
 ##License
 
