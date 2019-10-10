@@ -1,7 +1,7 @@
 # GridCreator
 A 2D Grid Creator for Unity
 
-##License
+# License
 
 Copyright (C) 2015 Matthew Sawrey
 
