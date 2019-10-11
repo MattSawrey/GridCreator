@@ -1,6 +1,10 @@
 # GridCreator
 A 2D Grid Creator for Unity
 
+# Requires
+
+- UnityToolbag (https://github.com/MattSawrey/UnityToolbag)
+
 # License
 
 Copyright (C) 2015 Matthew Sawrey
